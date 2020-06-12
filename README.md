@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist tdot/yii2-categorycard "*"
+composer require tdot/yii2-categorycard:dev-master
 ```
 
 or add
 
 ```
-"tdot/yii2-categorycard": "*"
+        "tdot/yii2-categorycard": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
