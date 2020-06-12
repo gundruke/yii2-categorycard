@@ -1,4 +1,4 @@
-Caregory card
+Category Card
 =============
 Creates a category simple card layout.
 
